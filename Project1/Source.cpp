@@ -1,4 +1,8 @@
 #include "o-ni-.h"
+
+int ooni;
+float oonii;
+#include "o-ni-.h"
 #include<stdio.h>
 
 void main() {
